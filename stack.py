@@ -35,3 +35,5 @@ class Stack():
         for i in range(self.__top):
             print(f"{self.__items[self.__top - i - 1]}")
     
+
+ex =  Stack()
